@@ -214,7 +214,7 @@ If you like this project please drop a review or hit me up for job opportunities
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-First of all, a big thanks to Ibas Majid. Following his tutorial, a step-by-step guide to building the fantastic project (source: https://ibaslogic.com/react-tutorial-for-beginners/), led to this amazing project. I learned a ton!
+First of all, a big thanks to Ibas Majid. Following his tutorial, a well curated guide to building the fantastic project (source: https://ibaslogic.com/react-tutorial-for-beginners/), led to this amazing project. I learned a ton!
 
 I would also like to thank Microverse and myself for guiding me on this journey to becoming a developer!
 
